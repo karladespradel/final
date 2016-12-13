@@ -208,6 +208,12 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
+.header-logo {
+  font-size: 12px;
+  width: 50%;
+  height: auto;
+}
+
 strong {
   color:#222;
   font-weight:700;
